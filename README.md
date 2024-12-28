@@ -64,34 +64,6 @@ The dataset contains 6 columns and 1000 rows:
 | releaseYear | Year the TV show was first released     | INTEGER       |
 
 
-**Analysis List**
-
-Genre Analysis
-
-Analyze the distribution and diversity of genres to understand popular and less common categories. Identify top genres based on ratings, votes, and frequency, and examine genre combinations to uncover unique trends.
-
-Rating Analysis
-
-Study the average ratings of TV shows to identify highly rated and poorly rated shows. Explore ratings trends across decades and genres to assess how audience preferences have evolved over time.
-
-Popularity Analysis
-
-Evaluate the number of votes for each TV show to determine viewer engagement. Identify shows with the highest and lowest votes and analyze their common characteristics.
-
-
-Hidden Gems Analysis
-
-Identify high-rated shows with lower votes to highlight underrated content that may appeal to niche audiences.
-
-Correlation Analysis
-
-Investigate the relationship between ratings and votes to understand how audience engagement influences perceptions of show quality.
-
-Top Performers Analysis
-
-Highlight the top-rated and most-voted TV shows overall and for each genre, providing insights into the most impactful and loved content.
-
-
 **Approach Used**
 
 Data Wrangling
