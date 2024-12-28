@@ -99,22 +99,26 @@ Data Wrangling
 -Inspected the dataset to identify and handle NULL or missing values.
 
 Verified data types and ensured consistent formatting for analysis.
+
 Database Creation
 
 -Built a database using MySQL.
 
 Created the imdb table and populated it with TV show data.
 Set up primary keys and ensured columns were structured for efficient querying.
+
 Feature Engineering
 
 -Derived insights by grouping genres, calculating decades, and analyzing multi-genre shows.
 
 Added columns like decade to examine trends over time.
+
 Exploratory Data Analysis (EDA)
 
 -Performed SQL-based analysis to answer key questions about genres, ratings, popularity, and time-based trends.
 
 Used aggregation and filtering to uncover insights into high-performing genres and hidden gems.
+
 Visualization and Interpretation
 
 Summarized findings for better understanding and practical application.
